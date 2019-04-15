@@ -1,5 +1,5 @@
 <?php
-namespace Tools\Picture;
+namespace Tool\Picture;
 /**
  * Created by PhpStorm.
  * User: gzq
