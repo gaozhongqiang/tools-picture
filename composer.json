@@ -1,0 +1,12 @@
+{
+    "name": "tools/picture",
+    "description": "图片处理函数",
+    "type": "library",
+    "authors": [
+        {
+            "name": "gaozhongqiang",
+            "email": "1225000209@qq.com"
+        }
+    ],
+    "require": {}
+}
